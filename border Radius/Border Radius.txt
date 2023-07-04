@@ -1,0 +1,16 @@
+Border Radius 
+border radius is a corner of border 
+or circle the border 
+
+Border Radius Properties 
+border-top-left-radius :
+border-top-right-radius :
+border-bottom-right-radius :
+border-bottom-left-radius :
+
+SHorthand Property 
+border-radius :
+
+Cincept
+1 2 3 4 
+

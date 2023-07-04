@@ -1,0 +1,36 @@
+CSS Font Properties 
+fint-size;
+font-family;
+font-weight;
+font-style;
+font-variant;
+Line-hieght;
+
+Font-size Predefine values 
+Xx-small
+x-small
+small
+smaller
+medium
+large 
+X-large 
+XX-large 
+
+Font-Size value 
+pexel 
+percentage
+em
+
+Font-Family mean Face 
+arial 
+arial , helvtica,verdena 
+check the browser if they any of these fonts 
+
+or it will be default 
+
+Line-Hieght 
+mean gap between words 
+
+
+
+

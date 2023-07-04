@@ -1,0 +1,18 @@
+#box{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: pink;
+    /*  h-offset v-offset blur spread color */
+    /* we also do multiple shadow in it  */
+    box-shadow: 2px 2px 5px 1px red ,12px 12px 3px blue; 
+    margin: auto;
+    margin-top: 50px;
+    /* we also do inside shadow called it by inset property 
+inset  */
+box-shadow: inset 12px 3px 12px red;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}

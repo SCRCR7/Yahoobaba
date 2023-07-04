@@ -1,0 +1,14 @@
+p{
+    width: 250px;
+    height: 250px;
+    border: 2px solid green;
+    /* here it is a problem but overflow can handle it  */
+
+    /* overflow: scroll; */
+    /* auto is use for if it is horizatally overflow it will scroll horiztally otherwise it will be vertically overlforw 
+     */
+     /* overflow: auto;    */
+     /* overflow: visible;  */
+     /* overflow-y: scroll;  */
+    overflow-x: scroll;
+}

@@ -1,0 +1,38 @@
+CSS Border Properties 
+Border width 
+Border Hight 
+Border Style 
+Border Color 
+Short hand property 
+border : 1px solid green;
+Border Style 
+
+Solid
+Dotted 
+Dashed 
+Double 
+Ridge 
+Inset 
+Outset 
+None 
+Mix 
+
+Syntax: If border properties have 3 values then:
+ 
+
+border-style: solid dotted double
+Solid:top border
+Dotted: Left and right border
+Double: bottom border
+
+Syntax: If border properties have 2 values
+
+border-style:solid dotted
+Solid:top and bottom border
+Dotted: right and left border
+
+
+Syntax: If border properties have 1 value
+
+border-style:dotted
+Dotted:top, bottom, left and right border

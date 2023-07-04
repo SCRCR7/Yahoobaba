@@ -1,0 +1,12 @@
+Text Properties 
+text-align : alingment
+text-justify :left and right are sasme 
+text-align-last :paragraph in box so it will align last line 
+text-transform : for upper and lower text
+text-indent 
+word-spacing : space betwenn word
+letter-spacing :
+
+
+
+ 

@@ -1,0 +1,20 @@
+p{
+    width: 400px;
+    border: 2px solid black;
+    text-decoration: underline red solid ;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap:break-word;
+    /*     now its solve the problem but the proble with word pieces  */
+        
+    /*     word-break:normal; */
+    /*     by default its normal */
+    /* now it make a white spaces in right side of the box for this we use a property called word-reak
+ */
+
+ word-break:break-all;
+ /* main word */
+ /*     all word will be break  */
+ word-break: keep-all;
+    
+
+}

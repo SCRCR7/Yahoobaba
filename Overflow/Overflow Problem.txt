@@ -1,0 +1,17 @@
+overflow problem
+
+text or data out of box 
+
+so for this we handle it by oveflow peoperty
+
+overflow :hidden ;
+overflow :scroll; horizatelly or vertically 
+overflow:auto; autometically ;handle horizatenl nad vertical data 
+overflow:visible;
+
+Property 
+overflow 
+overflow-x ; horizatallly handle 
+overflow-y; vertically handle 
+is use in any case 
+

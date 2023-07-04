@@ -1,0 +1,29 @@
+body{
+background-color: aliceblue;
+    /* font-size: 18px;  */
+}
+#first{
+    width: 400px;
+    padding:25px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    /* font-size: 60%;   comment  */
+    /* here it is the percentage of 18 or parent (body
+    ) tag  */
+    /* font-size: 2em; comment  */
+    /* here it is the double of the parent(body) tag e.g 2x 2 guna  */
+
+    /* now use span  */
+    
+}
+#second{
+    width: 400px;
+    padding: 25px;
+    border: 2px solid black;
+    line-height: 1em;
+    font-variant: small-caps;
+    font: oblique normal 30px small-caption ;
+}
+#second span{
+    font-size: 2em;
+}

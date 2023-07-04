@@ -1,0 +1,13 @@
+Probelm Face
+ 
+we use it for to remain the actula width of the element 
+if we did not use is it will iclude padding +width +margin 
+width + padding + border = actual width of an element
+height + padding + border = actual height of an element
+
+for this we use 
+Syntax
+now it cannot increase there actual width 
+Box-sizing :border-box;
+
+width is changes when we increase border and padding 

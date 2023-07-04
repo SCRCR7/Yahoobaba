@@ -1,0 +1,40 @@
+Float Property 
+it use more in website 
+
+div width contecnt inside it
+
+if we make another width it will not in the left side of parent div
+
+for this we use float property 
+
+Concept : if we want to use two div in one line or linear x-axis
+
+
+float: none|left|right|initial|inherit;
+Property values:
+
+none: This is the default value & the element does not float.
+left: Element floats on the left side of the container.
+right: Element floats on the right side of the container.
+initial Element will be set to its default value.
+inherit: Element inherits floating property of its parent property.
+
+left: The element will be positioned to the left side of its containing block.
+right: The element will be positioned to the right side of its containing block.
+none: The element remains the same as it is declared ie it will no effect on the element & this is the default value.
+
+inherit: It is used to inherit a property to an element from its parent element property value.
+
+
+Margin 
+use margin if element is close together 
+
+
+
+
+
+
+
+
+
+

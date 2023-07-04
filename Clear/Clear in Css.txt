@@ -1,0 +1,14 @@
+CSS clear Values
+left 
+right 
+both 
+
+Design issue without clear 
+
+Concept 
+clear is use when data overlfow from left or right side 
+for this problem we use clear:left proprty if left side data is massive 
+otherwise we use clear:right property if it is data is massive from right side 
+simple method is we use both if right and left both are massive data so it will be easy for us 
+
+clear:both;

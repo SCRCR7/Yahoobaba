@@ -1,0 +1,22 @@
+#first{
+    border: 2px solid black;
+    width: 500px;
+    /* margin-top: 10px ;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 12px; */
+    float: left;
+    margin-left: 10px;
+    
+}
+#second{
+    border: 2px solid green;
+    width: 500px;
+    /* margin-top: 100px ;
+    margin-left: 546px;
+    box-sizing: border-box;
+    padding: 12px;
+    margin-right: 300px; */
+    float: left;
+    margin-left:  150px;
+}

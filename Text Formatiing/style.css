@@ -1,0 +1,37 @@
+p{
+    width: 400px;
+    padding: 25px;
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center;    by default text align is left  */
+    text-align: justify; /*justify mean left and right are same padding inside it 
+
+  
+    /* margin: auto;
+    margin-bottom: 100px; */
+    text-align-last:start;
+    text-align:right;  
+/*     it will right side the text  */
+    
+    text-align-last:end;
+    text-align-last:center;
+    text-align-last:auto;
+    text-transform:capitalize;
+/*     it will capitral all the first letter  */
+    text-transform:uppercase;
+    text-transform:initial;
+    text-decoration-color:red;
+    text-indent:100px;
+/*text indent mean that how much you give start space in beginning pragaraph      */
+  
+    /* margin: auto;
+    margin-bottom: 100px; */
+    word-spacing:30px;
+    /*     gap between words  */
+        
+    
+
+}
+    
+
+}

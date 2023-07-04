@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
+p{
+    /* Problem in p tag */
+    border: 2px solid green;
+    width: 500px; 
+    /* problem ere is it increase the width of a box for this we will be use box-sizing which remain the width and change it in hight  */
+
+    padding: 150px;
+    margin-left: 450px;
+    margin-right: 150px;
+    margin-top: 40px;
+    box-sizing: border-box; 
+    /* use to control the width  */
+}
+*{
+    padding: 0;
+    margin: 0;
+}

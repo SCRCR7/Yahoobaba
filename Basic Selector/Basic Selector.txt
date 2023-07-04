@@ -1,0 +1,48 @@
+by tag name 
+class
+id 
+tag name selector 
+p{
+}
+h{
+}
+div{
+}
+table{
+}
+
+Class Selector 
+.contaner{
+}
+.div{
+}
+
+id slector 
+#menu{
+}
+use one time in page
+class is multiple time in page 
+
+Descendant Selector 
+
+#header a{
+}
+.list p{
+}
+
+ul#menu li{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

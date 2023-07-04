@@ -1,0 +1,11 @@
+Max widhth
+max hight 
+ we use it for responsive 
+for examplemif we drag a broweser it size we fix it 
+and max fix t how long it can go and how long it can be small 
+
+Concpet 
+Simple for large and small 
+by resetting a website
+
+also is same for min width and min hirght

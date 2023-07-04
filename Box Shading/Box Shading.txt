@@ -1,0 +1,15 @@
+Box-Shadow 
+
+box-shadow : 2px 2px 5px 10px orange ;
+
+2px : h-offset x-axis right/left
+2px : top/Bottom or y-axis
+5px :blur 
+10px: spread 
+orange :color 
+
+we also do multiple shadow in this 
+Example
+box-shadow : 2px 2px 5px 10px orange, 12px 12px 3px green;
+we also do inside shadow called it by inset property 
+inset 

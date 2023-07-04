@@ -1,0 +1,67 @@
+CSS Font Properties 
+fint-size;
+font-family;
+font-weight;
+font-style;
+font-variant;
+Line-hieght;
+
+Font-size Predefine values 
+Xx-small
+x-small
+small
+smaller
+medium
+large 
+X-large 
+XX-large 
+
+Font-Size value 
+pexel 
+percentage
+em
+
+Font-Family mean Face 
+arial 
+arial , helvtica,verdena 
+check the browser if they any of these fonts 
+
+or it will be default 
+
+Line-Hieght 
+mean gap between words
+
+line-height :2em;
+
+font-width 
+
+larger the text 
+<span> is use to only select those element who are insdie it<span>
+
+font-style 
+font-style :oblique 
+when doesnt work itlaic we oblique 
+font-variant normal;
+small-caps;
+character capital but the first one is minor more cpital 
+Shorthand property 
+
+font:style , variant ,size , weight , family;
+
+
+
+
+
+
+
+
+ 
+
+Difference between Percentage em and px 
+
+percentage is the parent (body) tag 
+em is double the parent tag 
+while percent is decrease it it work with 100 %
+
+
+

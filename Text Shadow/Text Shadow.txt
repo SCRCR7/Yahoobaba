@@ -1,0 +1,30 @@
+Text shadow 
+support modern browser 
+
+no text shadow with Sohaib Hassan 
+property :
+
+text-shadow :2px 2px 5px orange
+
+h-shadow : left and right or x-axis 
+v-shadow : Top and Botom Y-axis 
+blur-radoius : 5px increases blurness
+color :orange
+
+
+for this we draw a simple x -axis and y-axis graph
+
+it will 
+-1-2-3-4 +1+2+3+4
+
+same for y -axis
+
+-2x in x-axis represent the left side of shadow 
+
+-2c form top it will goes top 
+also use multiple shadow 
+with comma
+
+
+
+

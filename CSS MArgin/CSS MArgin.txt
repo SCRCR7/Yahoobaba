@@ -1,0 +1,28 @@
+Note: The margin property allows the negative values.
+
+We will discuss all 4 properties sequentially.
+
+If the margin property has 4 values: 
+
+margin: 40px 100px 120px 80px;
+top = 40px
+right = 100px
+bottom = 120px
+left = 80px
+
+If the margin property has 3 values: 
+margin: 40px 100px 120px; 
+top = 40px
+right and left = 100px
+bottom = 120px
+
+If the margin property has 2 values:
+
+margin: 40px 100px; 
+top and bottom = 40px;
+left and right = 100px;
+
+If the margin property has 1 value: 
+
+margin: 40px; 
+top, right, bottom and left = 40px

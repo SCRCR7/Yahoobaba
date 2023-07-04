@@ -1,0 +1,27 @@
+Outline
+def:
+
+it is outside of the border 
+
+Property
+
+outline-width
+outline-style
+outline-color
+outline-offset
+ 
+outline style is same as border like
+solid 
+dashed 
+dotted 
+
+Css outline shorthand
+
+outline : 2px solid red 
+
+outline-width :2px
+outline-style :solid
+outline-color :red
+
+both are same 
+

@@ -1,0 +1,23 @@
+
+
+h1{
+    text-decoration-line: none;
+    text-decoration-line: underline;
+    text-decoration-color:red;
+        text-decoration-style:dashed;
+    /*     by default it solid  */
+        text-decoration-style:double;
+        text-decoration-style:wavy;
+    /*     shorthand property */
+    /*decoration color style  */
+        text-decoration:underline red wavy;
+}
+
+p{
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    border: 2px solid black;
+    text-decoration-line: underline;
+}
+

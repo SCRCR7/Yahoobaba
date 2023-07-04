@@ -1,0 +1,20 @@
+Word Wrap 
+out of box text problem
+
+word-wrap:break-word;
+
+
+Word-Break;
+break-all;
+keep-all;
+
+Example we write  pakistan 
+in upper its pak and next line its stan so it a problem 
+
+for this we use word break 
+
+now we make a box and its overflow out of box for this problem we use a property called word wrap
+
+Problem 2
+
+now it make a white spaces in right side of the box for this we use a property called word-reak

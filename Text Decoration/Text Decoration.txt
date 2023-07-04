@@ -1,0 +1,32 @@
+Text Decoration Prorperty
+
+text-decoration-line
+color 
+style 
+
+
+underline 
+overline
+line-through 
+None
+
+
+style 
+solid 
+dotted 
+dashes 
+
+Shorthand 
+text-decoration :underline red wavy;
+
+
+
+
+
+
+
+
+
+
+
+

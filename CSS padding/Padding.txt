@@ -1,0 +1,27 @@
+Padding Property 
+padding-Top
+padding-right
+padding-bottom
+padding-left
+
+shorthand 
+padding :10px 
+
+If the padding property has 4 values: 
+
+padding: 40px 100px 120px 80px; 
+top = 40px
+right = 100px
+bottom = 120px
+left = 80px
+If the padding property has 2 values: 
+
+padding: 100px 150px; 
+top and bottom = 100px;
+left and right = 150px;
+
+If the padding property has 1 value:
+
+padding: 100px; 
+top, right, bottom and left = 100px
+
