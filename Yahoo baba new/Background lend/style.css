@@ -1,0 +1,17 @@
+#box {
+    width: 800px;
+    border: 2px solid black;
+    float:left;
+    background: -moz-linear-gradient(to left green ,blue);
+    background-image: -moz-linear-gradient(to right red,yellow), url(image.jpg);
+}
+img{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+#box p{
+    border: 1px solid green;
+    background-color: blue;
+
+}

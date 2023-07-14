@@ -1,0 +1,16 @@
+#box{
+    width: 800px;
+    height: 600px;
+    padding: 25px;
+    border: 2px dotted black;
+    background-color: white;
+    background-image: url(flower.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-origin: border-box;
+    /* start from the boder */
+    background-origin: content-box;
+    /* start from content */
+    background-origin: padding-box;
+    /* start from padding  */
+}

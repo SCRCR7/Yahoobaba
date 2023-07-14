@@ -1,0 +1,16 @@
+CSS cal() function 
+it use for subtraxt the extra hight or width from wesbite
+
+sometimes it use more width for example
+widht 100%
+it use 42 px extra so we subtraact it like this 
+width:(100% -20px -20psx -1px -1 px)
+now there is no scroll bar come
+
+we also use box sizing method for it 
+but cal() function will be work anywhere 
+postion absolute use here to understand the concpet we use box here to center it 
+postion:absolute;
+left50%
+top50%
+cal() it

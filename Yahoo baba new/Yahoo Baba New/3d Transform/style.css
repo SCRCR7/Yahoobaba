@@ -1,0 +1,15 @@
+.threed{
+    width: 400px;
+    /* height: auto; */
+    color: pink;
+    background-color: pink;
+    /* transform:rotate3d(180deg); */
+    /* transition: 2s; */
+    border: 2px solid green;
+
+
+}
+/* .threed:hover{ */
+    /* background-color: red;
+transform: rotate3d(180deg); */
+/* } */

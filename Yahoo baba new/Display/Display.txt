@@ -1,0 +1,18 @@
+Display 
+power given to another tag 
+none
+inline
+block 
+inline-block
+
+display-none mean : it will remove completely the space that cover by element or any tag
+div :horizantal full width cover tag 
+width and hight apply :yes
+Span :cover onli minium space what it required 
+Span doesnt support width padding and margin
+a is also a span 
+anchor tag
+inline : span
+block :div
+inline-block  ;inline andd block 
+one line and will work as bock element 

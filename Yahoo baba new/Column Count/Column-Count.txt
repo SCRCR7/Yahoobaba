@@ -1,0 +1,53 @@
+column Count 
+it's simply mean break text into pieces 
+for example we want counter-count 3 
+so the text will be devided into three parts in one box
+
+Property
+column-count
+column-gap; / gap between parts/ use 10px 20px gap
+column-rule; /rule mean vertical line between gap/ use solid dotted 10px 
+column-rule-width;
+column-rule-style;
+column-rule-color;
+column-width; 
+column-fill;
+column-span;
+column;
+rule will be only in center not left and right side 
+/* the gap is increase  */
+    /*gap is used to space between these count */
+
+Shorthand property
+
+column rule widht style and color short property
+
+column-rule:5px dotted red;
+
+colspan mean out of the box and write in top
+just like heading and it will out of the box 
+col-fill;
+prefix;
+all properties are major browser supported 
+chrome and firefox updated version are supported 
+
+for old browswer we use prefix 
+-moz-column -width :250px;
+-webkit-column-wisth:250px
+
+for chrome and safari 
+prefixes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

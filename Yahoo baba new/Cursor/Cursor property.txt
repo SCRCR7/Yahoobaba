@@ -1,0 +1,40 @@
+cursor 
+it is use when click the on button
+ values
+cursor :pointer 
+
+other values
+auto 
+default
+none
+context-menu
+help
+pointer
+progress
+wait
+cell
+crosshair
+text
+vertical-text
+alias
+copy 
+move
+no-drop
+not-allowed
+e-resize
+n-resize
+ne-resize
+s-resize
+-se-resize
+sw-resize
+w-resize
+s-resize
+nesw-resize 
+nwse-resize 
+col-resize
+row-resize 
+all-scroll
+zoom-in
+zomm-out
+grab
+grabbing

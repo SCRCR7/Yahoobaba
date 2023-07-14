@@ -1,0 +1,12 @@
+Text overlofw 
+it is use when text is out of box 
+we use overflow:hiddeen 
+also use white-space :nowrap
+text-iverflow:"[..]";
+String is use in the last box 
+
+text-overflow :clip
+it is by default value of browser mean in the end text will be hidden
+text-overflow:String
+it is supoorted in firefox not on anyother browser
+text-overflow :hidden;

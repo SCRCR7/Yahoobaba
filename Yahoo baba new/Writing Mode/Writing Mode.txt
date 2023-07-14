@@ -1,0 +1,12 @@
+Writing Mode Values 
+horiztal-tb (default)
+vertical-rl
+vertical-lr
+sidways-rl
+sideways-lr
+
+This is a div and withi inside box 
+it will rotate the box not div but the text inside it
+
+Concept :
+its mean we rotate the text inside the box

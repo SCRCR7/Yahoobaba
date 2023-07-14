@@ -1,0 +1,50 @@
+body{
+    font-family: arial;
+}
+table{
+    border-spacing: 10px 20px;
+    /* it include spacing in border  */
+    /* vertical first one second one horizantal mean rows and column */
+    border-collapse: separate;
+    /* by default  */
+    border-collapse: collapse;
+    /* it will make only single border outside  */
+width: 300px;
+/* for making widht of the border  */
+empty-cells: show;
+/* default
+ */
+ empty-cells: hide;
+ table-layout: auto; 
+ /* also use fixed  */
+ /* for making the color one cell in table */
+
+}
+
+table ,th ,td{
+    border: 1px solid #ddd;
+    /* best color for borders */
+    
+}
+td{
+    vertical-align: top;
+    /* now it will make the text above postion */
+    vertical-align: bottom;
+}
+th,td{
+    padding: 20px;
+    /* also use top and bottom left and rihgt padding  */
+    /* padding : 10px 20px */
+
+}
+caption{
+    caption-side: bottom;
+    /* default property top */
+    /* caption-side:top */
+}
+tr:hover{
+    background-color: aliceblue;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,71 @@
+Transition 
+
+when we hover the box  and its size increases
+we called it smoothness in CSS because it will smoothly increase
+
+without transition it will directly increase 
+with smotth it will slowly increase 
+
+e.g
+Advantage
+from square to circle 
+from rectangle to increase
+
+Transtion :shorthand
+transtion property 
+duration :how much time it will taken to start 
+delay timing function : how much delay it 
+timing function 
+slow fast 
+
+shorthand 
+trasition 
+widht,hieght,background 2s,ws,4s
+
+also use 
+transtion:all 2s 
+if it is same for all 
+
+
+Transition 
+unit
+ease :slow start ,then fast,then end slowly
+linear : same speed fromstart to end
+ease-in : slow start
+ease-out : slow end  
+ease-in-out : slow start and end 
+step-start
+step-end
+steps(4,end)
+cubic-bezier : lets you define your own values 4
+
+Website 
+cubix-bezier(.17,67,.83,.67)
+cubic-bezier
+
+
+Transtion-timing-function 
+steps 
+ease
+ease-in 
+ease-out
+
+all : it ise use for allif its same vlaues 
+
+Shorthand
+transition : Property duration timing function delay
+Transtition :all 2s linear 1s;
+
+active
+must press the mouse button to press
+
+for input values
+
+<input type=text>
+
+it will also use with media queery
+
+
+
+
+ 

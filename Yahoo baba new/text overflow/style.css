@@ -1,0 +1,18 @@
+#box{
+width: 400px;
+border: 2px solid black;
+white-space: nowrap;
+/* here text is overflow the probelem begin so for this we use a property called text overlfow */
+overflow: hidden; 
+/* text overflow will be hidden  */
+/* overflow mean out of border or box */
+text-overflow: ellipsis;
+/* use for dotted in last mean text is continue here  */
+/* we also show different here insted of dotted */
+text-overflow: " //";
+text-overflow: "etc";
+text-overflow: clip;
+/* default property  */
+/* mean not show in end */
+
+}

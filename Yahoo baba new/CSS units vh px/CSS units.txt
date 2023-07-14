@@ -1,0 +1,53 @@
+CSS units
+px
+%percentage
+em 
+rem
+vw :viewport widht 
+vh viewport hight 
+vmax viewposrt maximun
+vmin viwport minimum
+
+CSS absolute 
+which have fixed width 
+
+CSS Relative widht 
+depend on parent widht 
+
+em 
+it is use for fontsize 
+1em =16px 
+2em =16*2px 
+bydefault in chrome its px 
+
+
+rem 
+it will work according to root or browser
+it will take the html font size 
+<html>
+html{
+10px;
+}
+2rem =root
+2rem * 10 =20px whix is 2 rem 
+it sae but one is pick the body one and another is oick the html of size
+
+
+VW Viewport widht 
+
+browser total widht is vw 
+100 vw is full 
+50 is half
+X axis work
+hight :100vw;
+
+
+Viwport hight 
+100vh 
+y axis work 
+hight :100vh;
+
+vmax viwport maximum :max width mean vw or vh 50%
+vmin viewport minimum min width mean vw or vh 50%
+
+

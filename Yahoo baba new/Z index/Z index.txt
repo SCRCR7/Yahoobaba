@@ -1,0 +1,10 @@
+Z index mean 
+x axis 
+y axis 
+and then 
+z axis 
+
+e.g ABC
+if we want B on C we use z Index and vice versa
++1 for upper 
+-1 for lower box 

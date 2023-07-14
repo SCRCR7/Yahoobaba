@@ -1,0 +1,15 @@
+CSs Gradient Types
+latest property
+
+Linear-Gradient : Top to bottom left to right riht to left  
+Radial-Gradient : starting from center or any point right bottom left bottom left top
+
+Repeating linear Gradient :
+repeating Radial Gradiant
+
+closet side small the value 
+farthest side large the color
+closest-corner 
+farthest-corner 
+Repeating-radial-fradiant 
+repeat the colors 

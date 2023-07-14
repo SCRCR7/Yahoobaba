@@ -1,0 +1,33 @@
+#box{
+    width: 1000px;
+    border: 0px solid black;
+    column-count: 3;
+    /* it ise use to divide the text */
+    column-gap: 100px; 
+    /* the gap is increase  */
+    /*gap is used to space between these count */
+    column-rule-width: 2px;
+    /* widht make a vertical solid line  */
+    column-rule-style: solid;
+    /* style */
+    /* rule will be only in center not left and right side  */
+    column-rule-style: dotted;
+    column-rule-style: double;
+    column-rule-color: green;
+    /* it will change the color */
+    column-rule: 5px dotted red;
+    /* shorthand property */
+    column-width: 250px;
+    /* it make the gap between text from their own */
+    /* prefixes are use for old version browser e.g internet explorer */
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    /* this is ude for old version browser */
+
+
+
+}
+/* we select h2 element and write it col-span to solve this problem  */
+h2{
+    column-span: all;
+}

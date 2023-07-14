@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: slateblue;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    border: 1px solid green;
+    width: 1000px;
+    /* widht important for main div */
+    background-color: white;
+    margin: 0 auto;
+
+}
+#header{
+    background-color: crimson;
+    height: 100px;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+}
+#header h1{
+    padding: 40px 0px 0px 50px;
+}
+#menu{
+    background-color: lightsalmon;
+    
+}
+#menu ul{
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    display: block;
+    padding: 5px 10px;
+
+    /* top and bottom first one */
+    /* right and left is second value */
+    text-decoration: none;
+    color: black;
+
+}
+li a:hover{
+    color: white;
+    background-color: crimson;
+}
+#content{
+    width: 800px;
+    border: 1px solid black;
+    
+    float: left;
+    min-height: 500px;
+    box-sizing: border-box;
+    padding: 10px;
+
+    
+}
+#sidebar{
+width: 200px;
+border: 1px solid black;
+min-height: 500px;
+float: right;
+text-decoration: none;
+color: black;
+box-sizing: border-box;
+
+}
+#sidebar li a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+#footer{
+    clear: both;
+    padding: 5px 10px;
+    background-color: lightsalmon;
+    text-align: right;
+}

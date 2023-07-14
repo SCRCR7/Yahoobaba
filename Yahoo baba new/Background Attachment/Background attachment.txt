@@ -1,0 +1,10 @@
+Background Attachment
+Scroll value
+Fixed value 
+
+
+Scrolling image 
+background-attacment :fixed ;
+mean that image will be scroll with text 
+background-scroll
+its a default value

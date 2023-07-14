@@ -1,0 +1,102 @@
+Media Query 
+Concept 
+css write for media 
+
+types
+ALL:
+Print:
+Screen:
+Speech:
+use for blind which will not see only hear 
+computer read it 
+
+
+Viweport :widht of the browser 
+1920 
+1440
+1366
+1024
+700-900
+320-480
+
+Basic Syntax
+
+@media screen and (maz-widht :900px){
+
+// css use here 
+// its mean we design it for 900px
+// for laptop and tablet 
+.container{
+widht:50%;
+}
+
+}
+
+
+// if we use it and for instance i made it for laptop but i define screen above and mobile width is 50%
+so with the help of media querry the size will be decrease 
+
+CSS Media features
+any-hover
+any-pointer
+aspect-ratio
+color
+color-gamut
+-color-index
+grid
+hight
+inverted-colors
+light-level 
+max aspect-ratio
+max-color
+max-color-index 
+max-hight
+max-monochrome 
+max-resoloution
+max widht 
+min aspect ratip 
+min color 
+min color index
+min hight 
+min resolution
+min widht 
+monochrome 
+orientation
+overflow-block 
+overflow-inline 
+pointer 
+resolution
+scan
+scripting 
+update 
+width 
+hover
+
+
+
+CSS logic operator 
+And Max widht and min width 
+
+not  only widht 
+
+only orientation
+
+Concept : we made media queery for website to change color and set different max widht to understand 
+font-szie change in body 100px and in max width it will be change to 40px 25 and 14 which will change accoriding to size 
+
+Advantage :
+protect from scroll bar
+
+we will wrok more in our basic layout to learn media query for responsive website
+
+
+
+
+
+
+
+
+
+
+
+

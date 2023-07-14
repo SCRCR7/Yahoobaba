@@ -1,0 +1,3 @@
+The CSS mask-image property specifies a mask layer image.
+With CSS masking you create a mask layer to place over an element to partially or fully hide portions of the element.
+

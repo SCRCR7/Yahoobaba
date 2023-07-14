@@ -1,0 +1,32 @@
+List Style 
+Property
+list-style-image
+list-style-position
+list-style-type
+
+Shorthand property
+list-style
+
+    /* we use these property inside ul and ol only not li
+
+value use is 
+circle
+disc (default)
+alpha 
+lower alpha (mean small letter )
+upper alpha (cpital letter )
+upppper roman (roman number)
+lower roman
+decimal (default)
+none (nothing)
+ list-style-position: inside;
+    /* it will move the list liitble bit forward */
+
+list-style-position: outside;
+    /* it will move to the left side  */f
+
+
+Icon for work
+https://www.iconfinder.com/ website 
+
+list-style-image :url(iconfinder.png)

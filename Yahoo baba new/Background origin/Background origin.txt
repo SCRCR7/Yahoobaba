@@ -1,0 +1,7 @@
+Bakground origin
+Values
+padding-box:start from padding box
+border-box :start from botter
+content-box : start from content
+
+origin mean where to start the background image

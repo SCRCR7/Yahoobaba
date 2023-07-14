@@ -1,0 +1,8 @@
+Visibillity
+it will work like a display none 
+vlaues
+hidden : hidden but it will remain it's space
+visible :see
+collapse : use in table
+
+now I use 3 tags the middle one is hidden so it will show space but hide the li 

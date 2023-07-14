@@ -1,0 +1,19 @@
+Shape outside 
+
+it is use with clip path 
+and also use with text formatting 
+
+why use it 
+because when we place a circle image so the text we will want in same line 
+problem is white space created a lot here 
+
+cover with shape outside 
+
+whitespace remove but another problem is text is with image 
+im{
+ float: left;
+            clip-path: circle(30% at 30% 50%);
+            shape-outside: circle(30% at 30% 50%);
+           shape-margin:20px;
+}
+

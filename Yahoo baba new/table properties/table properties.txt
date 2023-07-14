@@ -1,0 +1,66 @@
+Css Table Properties 
+border-spacing
+border-collapse 
+vertical-align
+caption-side 
+empty-cell
+table-layout 
+
+table {
+border-spacing :10px;
+will make the row and column spacing 
+}
+table{
+ //col and row spacing specify use 
+border-sapcing:10px 20px 
+// mean col space and row space 
+first is col space second is row space
+}
+  border-collapse: separate;
+    /* by default  */
+border-collapse :coolpase 
+//lining remove only one border remain outisde 
+
+vertical alighn 
+it is use for the text which i sby default comes to bottop 
+we use top bottom values 
+
+default value is middle 
+also we use bottom for lower the text alighn
+<caption>
+we use it for heading to the table by default it is top we also made it to the bottom
+<caption>Employee Record </caption>
+// CSS
+caption{
+caption-sdie:bottom;
+// also use top (default)
+}
+empty-cell show and hidden property also use 
+
+table-layout
+table sohaib widht increase for this problem e use table layout 
+table-auto;
+table-layout:fixed ;
+
+
+ /* for making the color one cell in table */
+tr:hover{
+    background-color: aliceblue;
+}
+
+
+tr:nth-child 
+which have even 
+make it background color if this 
+it will select even mean skip one and then select another box 
+
+border: 1px solid #ddd;
+best color for border
+
+
+
+
+
+
+
+

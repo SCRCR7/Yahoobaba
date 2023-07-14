@@ -1,0 +1,14 @@
+h1{
+    writing-mode: sideways-lr;
+}
+#box{
+    width: 400px;
+    border:2px solid black;
+    /* we writing mode here */
+    writing-mode: vertical-rl;
+    /* rl mean right to left  */
+    writing-mode: sideways-lr;
+    writing-mode: horizontal-tb;
+    
+
+}

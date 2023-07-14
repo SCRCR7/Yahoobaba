@@ -1,0 +1,78 @@
+#box{
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    background-color: green;
+
+}
+
+#box2{
+    width: 150px;
+    height: 150px;
+    cursor: help;
+    background-color: red;
+
+}
+#box3{
+    width: 150px;
+    height: 150px;
+    cursor: wait;
+    background-color:violet;
+
+}
+#box4{
+    width: 150px;
+    height: 150px;
+    cursor: none;
+    background-color:navajowhite;
+
+}
+#box5{
+    width: 150px;
+    height: 150px;
+    cursor: ne-resize;
+    background-color: aliceblue;
+
+}
+#box6{
+    width: 150px;
+    height: 150px;
+    cursor: n-resize;
+    background-color: magenta;
+
+}
+#box7{
+    width: 150px;
+    height: 150px;
+    cursor:crosshair;
+    background-color: khaki;
+
+}
+#box8{
+    width: 150px;
+    height: 150px;
+    cursor:cell;
+    background-color:lavender;
+
+}
+#box9{
+    width: 150px;
+    height: 150px;
+    cursor:e-resize;
+    background-color:lightgreen;
+
+}
+#box10{
+    width: 150px;
+    height: 150px;
+    cursor:all-scroll;
+    background-color:blue;
+
+}
+#box11{
+    width: 150px;
+    height: 150px;
+    cursor:not-allowed;
+    background-color: tan;
+
+}

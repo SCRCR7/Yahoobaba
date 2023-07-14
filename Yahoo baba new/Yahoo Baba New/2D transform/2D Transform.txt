@@ -1,0 +1,66 @@
+CSS Transform 2D Values 
+rotate(angel)
+translate(x,y)
+transalte(x)
+transalte(y)
+scale(x,y)
+scale(x)
+scale(y)
+skew(x-angel ,y angel)
+skewX(angel)
+skewY(angel)
+matrix(n,n,n,n,n,n)
+none
+
+Syntax
+transform:rotate(30deg)
+unit
+deg
+trsnform:SkewX(30deg)
+same for y 
+for both
+transform:SkewY(60deg ,30deg)
+
+Origin property 
+x axis left 
+y axis Top
+
+
+why we use it 
+it will work with animation
+
+Translate values
+transform:trnaslate ( x axis , y axis )
+left and right top and bottom 
+also use 
+transform :translateX(10px)
+transform:transalteY(20px)
+
+
+Scale 
+widht*2
+2 times widt increase 
+
+
+Matrix 
+trandorm:matrix(scaleX() ,ScaleY(),skewX(),scale(),transalteX
+(),TranslateY())
+
+not more useful 
+but use with animation
+
+default 
+none 
+
+
+use with animation
+
+#box:hover{
+trandform:scale(2);
+
+scale mean double of hight and widhth
+
+
+actual widht :width 300px
+hover widht :increase 100 px +300px =400px
+

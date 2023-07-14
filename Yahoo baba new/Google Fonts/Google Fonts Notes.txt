@@ -1,0 +1,44 @@
+Google Fonts 
+html
+Css
+images 
+Font(@font-face)
+
+response time increase 
+mean use many individual and server response time increases
+Advantages 
+decrease the server load 
+we load the font load to google 
+
+for google fonts :
+we search google fonts 
+its a free site 
+fonts.google.com :website
+select the plus icon 
+tab open 
+and create a url insdie it 
+it added two fonts url 
+
+WE place it in head tags
+<head>
+link fonts </head>
+
+and use in h1 tag
+<h1> Sohaib</h1>
+<style>
+h1{
+font-family :opensarig;
+}
+font family copy from google 
+
+
+
+
+
+
+
+
+
+
+
+

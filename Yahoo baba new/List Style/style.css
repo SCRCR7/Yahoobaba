@@ -1,0 +1,19 @@
+ul{
+    /* we use these property inside ul and ol only not li */
+    /* list-style-type:disc; 
+    /* by default  */
+    /* list-style-type: none; */
+    /* use for nothing */
+    /* list-style-type: circle; */
+    /* list-style-type:upper-alpha;  */
+    /* list-style-type:upper-roman;  */
+    border: 2px solid green;
+    list-style-position: inside;
+    /* it will move the list liitble bit forward */
+    list-style-position: outside;
+    /* it will move to the left side  */
+    list-style-image: url(right-arrow.png);
+    list-style: none inside url(right-arrow.png);
+    
+
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    /* here we will write any name */
+    src: url(fontfamily/AlexBrush-Regular);
+    /* we use a name of the folder and fonts name */
+    /* for different browser we use many src url */
+}
+/* here we use the font where we want to place for examle I want for div and h1 tag  */
+h1{
+font-family: myFirstFont;
+}
+#box{
+    font-family: myFirstFont;
+}

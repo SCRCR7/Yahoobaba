@@ -1,0 +1,101 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: slateblue;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    border: 1px solid green;
+    width: 1000px;
+    /* widht important for main div */
+    background-color: white;
+    margin: 0 auto;
+
+}
+#header{
+    background-color: var(--main-color);
+    height: 100px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: var(--head-font);
+
+}
+#header h1{
+    padding: 40px 0px 0px 50px;
+    font-family: var(--head-font);
+}
+#menu{
+    background-color: lightsalmon;
+    
+}
+#menu ul{
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    display: block;
+    padding: 5px 10px;
+
+    /* top and bottom first one */
+    /* right and left is second value */
+    text-decoration: none;
+    color: black;
+
+}
+li a:hover{
+    color: white;
+    background-color: var(--main-color);
+}
+#content{
+    width: 800px;
+    border: 1px solid black;
+    
+    float: left;
+    min-height: 500px;
+    box-sizing: border-box;
+    padding: 10px;
+    font-family: var(--head-font);
+
+    
+}
+#sidebar{
+width: 200px;
+border: 1px solid black;
+min-height: 500px;
+float: right;
+text-decoration: none;
+color: black;
+box-sizing: border-box;
+/* we make local variable now */
+--local-color:blue;
+color: var();
+
+}
+#sidebar li a{
+    text-decoration: none;
+    color: black;
+    /* here we use local color for diebar */
+    color: var(--local-color);
+    list-style: none;
+}
+
+#footer{
+    clear: both;
+    padding: 5px 10px;
+    background-color: var(--main-color);
+    /* here it will call the main root function */
+    text-align: right;
+    font-family: var(--head-font); 
+    /* it will not work here beacuse its a local root */
+}
+:root{
+    --main-color:brown;
+    /* hyphen -- is needed must  */
+    /* it is use for easiness one color change all will change where it same  */
+/* now we making for head  */
+--head-font:impact;
+}

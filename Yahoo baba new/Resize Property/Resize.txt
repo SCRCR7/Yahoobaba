@@ -1,0 +1,15 @@
+Resize in Css
+we use it for resize the box vertical horizantal or both 
+
+<textarea> by default use these features
+
+lets try it 
+values 
+resize:vertical
+horizatanl 
+both 
+none :nothing 
+for resizing it must needed to use helper property called 
+overflow:auto;
+//needed must 
+//helper property which is use with main property

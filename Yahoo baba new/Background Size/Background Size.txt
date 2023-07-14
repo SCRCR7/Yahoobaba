@@ -1,0 +1,8 @@
+Background size values
+auto (default)
+length (px)
+percentage (%) : percentage of width
+Cover :cover the image isndie in div
+Contain :adjust the image in div 
+
+Practically 

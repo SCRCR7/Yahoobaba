@@ -1,0 +1,30 @@
+Postion in html
+static
+relarive 
+absolute
+top bottom 
+
+
+left 
+right 
+top 
+bottom 
+
+
+one we will be use at a time 
+
+understand it from x axis and yaxis 
+
+absolute : z index up or top 
+work from the top of website include it from there 
+
+fixed : is same like absolute but the difeerence is only it will not scroll when scrolling sidebar
+Sticky : same as fixed but 
+left:50px;
+top:10px;
+it work is only we set the where we want to fixed it 
+for example we given top 50px here it is start from the 50 px 
+
+
+absolute also work as a parent 
+and relative wil weill use insdie a dive absolute

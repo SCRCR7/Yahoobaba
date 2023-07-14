@@ -1,0 +1,13 @@
+li{
+    visibility: hidden;
+    /* hidden li list but remain a space opposit of display none propety  */
+    visibility: visible;
+    /* now its visible again */
+    /* we see the hidden tag  */
+}
+.first{
+visibility: collapse;
+/* it will hidden the one row  */
+/* also use for td */
+/* speccillay use for table */
+}

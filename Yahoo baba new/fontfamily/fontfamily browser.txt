@@ -1,0 +1,73 @@
+font -family 
+
+font-family:Arial,helvicta,sanserif 
+checck in browser any of these font install oterwise default 
+
+web safe fonts 
+major operating system supported 
+windows macos linus andrios ios 
+
+New Property 
+
+@font-face-Rule;
+Rule:
+@font-face{
+font-family:myfirstFont;
+src:url(open_sans.woff)
+}
+
+condition :
+anyname will given to it myfirstfont
+we use a camelcase letter 
+src or source uniform resourse locator 
+
+in case of place in folder 
+src:url(fonts/open_sans.woff);
+
+h1{
+color:myFirstFont; //name that use @fontfamily write in h1
+
+}
+disadvantage server load 
+loading 
+site slow 
+speed slow 
+
+Using :
+ 
+for usig font face we need to download fonts from tff version
+
+fontssquirre.com website for fonts
+Open sans : it is use for paragraph a lots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+ul{
+    /* display: none; */
+    /* will remove anything which cover space  */
+    border: 1px solid black;
+    width: 500px;
+    /* same width cover because its parent given to child */
+}
+
+ul li{
+    border: 1px solid black;
+    display: inline;
+    /* use for text ine linear span anchor italic use there  */
+}
+h1{
+    display: none;
+    /* it will remove the heading of website */
+    
+}
+span{
+    border: 1px solid green;
+    display: inline;
+    /* its a default value */
+    display: block;
+    /* block mean it will cover the whole width of web 
+    like div  */
+    /* now also we can set its widht  */
+    width: 500px;
+    padding: 10px;
+    /* if we dont make it block it will work padding and widht  */
+    display: inline-block;
+    /* one line and work as block elment too both  */
+    display: list-item;
+    /* mean given give dots to it  */
+
+}

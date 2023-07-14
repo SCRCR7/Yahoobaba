@@ -1,0 +1,37 @@
+Background Image
+background-image
+background-repeat
+background-postion
+
+Backgorund-image:url(imagepath)
+background-image:url(one.png);
+
+we will use background image in any element tahe 
+e.g h1 , body div span etc
+
+Css background Repeat Values
+repeat 
+no-repeat 
+repeat-x
+repeat-y
+space 
+round
+
+Postion values
+
+left top  x axis left ytaxis top 
+left center  x axis left yaxis center 
+left bottom  x axis left yaxis botto,
+right top    x axis right yaxis top
+right center x axis right yaxis top 
+right bottom 
+center top 
+center center 
+center bottom 
+x%y%
+xpos ypos
+ 
+also we use it in percetnage
+
+shorthand 
+background:url(path image) no-repeat right center; 

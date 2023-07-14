@@ -1,0 +1,22 @@
+body{
+    font-family: arial;
+
+}
+#box{
+    width: 800px;
+    height: 300px;
+    padding: 30px;
+    border: 3px solid black;
+    background: linear-gradient(to left ,blue, red);
+    background:linear-gradient(-45deg to left ,yellow,green,violet,aqua,indigo);
+    
+}
+#box1{
+    width: 800px;
+    height: 300px;
+    padding: 30px;
+    border: 3px solid black;
+    background: radial-gradient(closest-side at 10% 10%, red, yellow ,green);
+    background: radial-gradient(closest-corner at 10% 50% ,red ,yellow,green);
+    background:repeating-radial-gradient(red,yellow 50px ,green 15%);
+}

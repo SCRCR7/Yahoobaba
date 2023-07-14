@@ -1,0 +1,52 @@
+Css Clip Path
+circle 
+elipse 
+oval 
+
+use ofr an image to crop it 
+simple concept 
+
+
+there is full size of image clip property x axis and y axis moving in pic if its reach the pic end it will half it 
+50 % x and 50 % y mean pic center 
+
+Elicpe 
+need 
+horizantal 
+vertical
+x axis 
+y axis
+
+
+(hor verti at x y)
+clip-path: ellipse(10% 40% at 55% 60%)
+/* here x and y axis just use for top and bottom left and right */
+/* while horizantal and vertical it is used for length of the image mean in horizantal and vertical way */
+        
+for Rectangle
+
+use Top Bottom left and right
+use inset values()
+clip-path: inset(5% 20%);
+/* top 5% right 20% bottom 15% left 10% */
+/* same like margin property */
+
+for Polygon
+
+clip-path: polygon();
+/* 3 points needed for 1 x axis y axis  */
+/* 3 points needed for 2 point x axis y axis  */
+/* 3 points needed for 3rd point x axis y axis  */
+/* 50% 0% first point x axis and yaxis  */
+/* 50% 0% left rigt point  */
+/* 50% 0% top bottom point  */
+
+
+for this we ue a website called bennettfeely.com
+1)https://bennettfeely.com/clippy/
+Problem :every browser not supported
+2 )https://caniuse.com/
+
+Note
+
+we also clip div 

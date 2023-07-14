@@ -1,0 +1,35 @@
+variables var() function
+use 
+basic deign layout 
+headr heading footer have colors 
+these three have same colors 
+crimson
+
+if we want to change these three colors so it will take a time to change one by one so we have property called root
+
+:root{
+
+--main-color:red;
+// main color is variable 
+.classA{
+color:var(--main-color);
+}
+classB{
+background-color:va(--main-color);
+
+}
+
+practically now 
+
+it have global 
+everywhere we change it 
+
+if we wanted to use in limited area 
+called it local scope 
+
+.classA{
+--main-color:red;
+color:var(--main-color);
+}
+.classA{
+
