@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Persepective in html</title>
+	<style>
+		.base{
+			width: 350px;
+			height: 250px;
+			background-color: grey;
+			margin: 20px 0 0 10px;
+			perspective: 800px;
+			/* we declare inn parent block deiffern from 3d transform */
+			perspective-origin: left;
+
+		}
+		.box{
+			width: 350px;
+			height: 250px;
+			background: tomato;
+			transform: rotateY(60deg);
+		}
+	</style>
+</head>
+<body>
+	<div class="base">
+		<div class="box"></div>
+	</div>
+</body>
+</html>

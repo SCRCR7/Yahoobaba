@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .card{
+            width: 300px;
+            height: 300px;
+            position: absolute;
+            top:50%;
+            left:50%;
+            line-height: 300px;
+            margin: -150px;
+            background-color: white;
+            color: #03446a;
+            text-align: center;
+            font-size: 40px;
+            box-shadow:0 0 15px rgba(0, 0, 0, 0.1);
+            animation-name: sample;
+            animation-duration: 2s;
+            animation-timing-function: ease-in-out;
+            animation-iteration-count: infinite;
+            animation-direction: alternate-reverse;
+
+
+        }
+        @keyframes sample {
+            from{border-radius: 0%; color: red; background-color: aqua;}
+            to{border-radius: 50%; color: yellow; background-color: #03446a;} 
+        }
+    </style>
+</head>
+<body>
+    <h1>Animation in Html</h1>
+    <!-- @keyframe aniamtion-example{
+     from{CSS properties}
+     to{CSS Properties}
+     0%{CSS properties}
+      100%{CSS properties}
+    } -->
+    <div class="card">
+        Sohaib
+    </div>
+</body>
+</html>

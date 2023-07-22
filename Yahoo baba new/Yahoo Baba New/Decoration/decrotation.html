@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     .box{
+            width: 400px;
+            background-color: palegoldenrod;
+            height: auto;
+            border: 1px saddlebrown solid;
+            margin-left: 20px;
+            user-select: none;
+            
+
+            /* for security  */}
+            span{
+                border: 2px solid green;
+                -webkit-box-decoration-break: slice;
+                box-decoration-break: slice;
+               
+            }
+            </style>
+
+</head>
+<body>
+    <h1>Decoration text Style</h1>
+    <div class="box">
+        <span>
+            Lorem ipsum dolor, <br>sit amet consectetur<br> adipisicing elit. Suscipit,<br> excepturi.
+        </span>
+    </div>
+</body>
+</html>

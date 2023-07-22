@@ -1,0 +1,11 @@
+animation Fill mode values
+
+Values 
+none 
+forwards
+backwards
+both
+
+animation-play:state: 
+it is used in hover psudo class
+which will stop when hover the mouse on it 

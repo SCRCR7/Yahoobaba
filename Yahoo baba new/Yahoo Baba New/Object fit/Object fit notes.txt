@@ -1,0 +1,9 @@
+object fit cover 
+to make the image with in the box 
+
+object-fit:cver;
+widht+height:cover
+
+objectfit-top
+object-0fit contain
+and fill

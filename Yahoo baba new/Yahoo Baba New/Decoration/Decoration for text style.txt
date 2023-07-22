@@ -1,0 +1,9 @@
+Decoration for text style 
+
+values 
+slice
+clone 
+
+box-decoration-break:slice; // by default 
+working with prefix 
+box-decoration-break:clone; // by default 

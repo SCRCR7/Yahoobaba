@@ -1,0 +1,10 @@
+user SElect 
+security working 
+visior not copy data 
+
+values 
+auto
+none 
+text
+all
+

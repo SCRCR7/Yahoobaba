@@ -1,0 +1,69 @@
+CSS Grid Layout
+
+The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.
+
+Grid Elements
+A grid layout consists of a parent element, with one or more child elements.
+
+Display Property
+An HTML element becomes a grid container when its display property is set to grid or inline-grid.
+
+Grid Columns
+The vertical lines of grid items are called columns.
+
+grid-container {
+  display: grid;
+}
+
+Example
+.grid-container {
+  display: inline-grid;
+}
+
+
+Grid Rows
+The horizontal lines of grid items are called rows.
+
+Grid Gaps
+The spaces between each column/row are called gaps.
+
+You can adjust the gap size by using one of the following properties:
+
+column-gap
+row-gap
+gap
+
+
+
+
+
+
+The gap property is a shorthand property for the row-gap and the column-gap properties:
+
+.grid-container {
+  display: grid;
+  gap: 50px 100px;
+}
+
+The column-gap property sets the gap between the columns:
+
+Shorthand
+
+.grid-container {
+  display: grid;
+  column-gap: 50px;
+}
+
+Example
+The row-gap property sets the gap between the rows:
+
+.grid-container {
+  display: grid;
+  row-gap: 50px;
+}
+
+
+Grid Lines
+The lines between columns are called column lines.
+
+The lines between rows are called row lines.

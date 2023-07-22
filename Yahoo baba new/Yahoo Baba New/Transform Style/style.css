@@ -1,0 +1,20 @@
+.parent{
+    width: 400px;
+    height: 250px;
+    margin: 0 0 70px 100px;
+    background-color: grey;
+    perspective: 800px;
+    /* parent dic trasnform */
+    transform: rotateY(40deg);
+    transform-style: preserve-3d;
+    
+
+}
+.box{
+    width: 400px;
+    height: 250px;
+    background-color: pink;
+    /* padding-top: 20px; */
+    transform: rotateX(90deg);
+    transform-origin: bottom;
+}
